@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 333 /tmp/tmp/my_first_directory/
+mkdir -m 333 /tmp/my_first_directory/
